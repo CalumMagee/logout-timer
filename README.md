@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Combat Logout Timer
+Displays 10 second combat logout timer
